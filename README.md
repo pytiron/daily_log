@@ -1,0 +1,6 @@
+# Daily log
+
+------
+
+beta version... 
+
